@@ -402,7 +402,6 @@ body::before {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: var(--bg-surface);
   border-radius: 7px;
   border: 1px solid var(--border);
   overflow: hidden;
