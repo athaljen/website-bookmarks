@@ -21,11 +21,11 @@ A minimal, dark-themed bookmark manager that lives in your browser. Organize you
 ## 📁 Project Structure
 
 ```
-bookmarks/
+root/
 ├── index.html   # App shell
-├── style.css    # All styles (dark theme, glassmorphism, animations)
-├── app.js       # Data loading, rendering, workspace logic
-└── data.json    # Your bookmarks
+├── styles.css    # All styles (dark theme, glassmorphism, animations)
+├── script.js       # Data loading, rendering, workspace logic
+└── data/    # Your bookmarks
 ```
 
 ---
@@ -60,48 +60,18 @@ All bookmarks live in `data.json`. Each entry follows this shape:
 ```json
 {
   "id": 1,
-  "name": "GitHub",
-  "link": "https://www.github.com",
-  "favicon": "https://github.com/favicon.ico",
-  "workspace": "coding",
-  "isSidebar": true
+  "title": "GitHub",
+  "link": "https://www.github.com"
 }
 ```
 
-| Field       | Type      | Description                       |
-| ----------- | --------- | --------------------------------- |
-| `id`        | `number`  | Unique identifier                 |
-| `name`      | `string`  | Display name shown on the card    |
-| `link`      | `string`  | URL opened on click               |
-| `favicon`   | `string`  | URL of the site's favicon image   |
-| `workspace` | `string`  | Workspace key (see below)         |
-| `isSidebar` | `boolean` | `true` to pin in the left sidebar |
+| Field   | Type     | Description                     |
+| ------- | -------- | ------------------------------- |
+| `id`    | `number` | Unique identifier               |
+| `title` | `string` | Display title shown on the card |
+| `link`  | `string` | URL opened on click             |
 
 Workspaces are derived automatically from the data — just use a new key and the tab appears.
-
----
-
-## 🏷 Workspace Keys
-
-The following keys map to built-in emoji icons:
-
-| Key             | Icon | Label         |
-| --------------- | ---- | ------------- |
-| `work`          | 💼   | Work          |
-| `social`        | 👥   | Social        |
-| `entertainment` | 🎮   | Entertainment |
-| `personal`      | 🏠   | Personal      |
-| `coding`        | 💻   | Coding        |
-| `design`        | 🎨   | Design        |
-| `finance`       | 💰   | Finance       |
-| `education`     | 🎓   | Education     |
-| `health`        | 🏥   | Health        |
-| `travel`        | ✈️   | Travel        |
-| `music`         | 🎵   | Music         |
-| `news`          | 📰   | News          |
-| `others`        | 🌐   | Others        |
-
-Any unrecognized key falls back to 🌐 with a capitalized label.
 
 ---
 
