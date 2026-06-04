@@ -440,11 +440,20 @@ body::before {
   scrollbar-color: var(--bg-hover) transparent;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 900px) {
   :root {
-    --sidebar-width: 72px;
+    --sidebar-width: 120px;
   }
   .sidebar-grid {
     grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 600px) {
+  :root {
+    --sidebar-width: 62px;
+  }
+  .sidebar-grid {
+    grid-template-columns: repeat(1, 1fr);
   }
 }
