@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Google",
+    "link": "https://www.google.com",
+    "favicon": "https://www.google.com/favicon.ico",
+    "workspace": "work",
+    "isSidebar": true
+  },
+  {
+    "id": 2,
+    "name": "GitHub",
+    "link": "https://www.github.com",
+    "favicon": "https://github.com/favicon.ico",
+    "workspace": "coding",
+    "isSidebar": true
+  },
+  {
+    "id": 3,
+    "name": "YouTube",
+    "link": "https://www.youtube.com",
+    "favicon": "https://www.youtube.com/favicon.ico",
+    "workspace": "entertainment",
+    "isSidebar": true
+  },
+  {
+    "id": 4,
+    "name": "Twitter / X",
+    "link": "https://www.x.com",
+    "favicon": "https://www.x.com/favicon.ico",
+    "workspace": "social",
+    "isSidebar": true
+  },
+  {
+    "id": 5,
+    "name": "Notion",
+    "link": "https://www.notion.so",
+    "favicon": "https://www.notion.so/favicon.ico",
+    "workspace": "work",
+    "isSidebar": true
+  },
+  {
+    "id": 6,
+    "name": "Gmail",
+    "link": "https://mail.google.com",
+    "favicon": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico",
+    "workspace": "work",
+    "isSidebar": false
+  },
+  {
+    "id": 7,
+    "name": "Stack Overflow",
+    "link": "https://stackoverflow.com",
+    "favicon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/favicon.ico",
+    "workspace": "coding",
+    "isSidebar": false
+  },
+  {
+    "id": 8,
+    "name": "MDN Web Docs",
+    "link": "https://developer.mozilla.org",
+    "favicon": "https://developer.mozilla.org/favicon-48x48.png",
+    "workspace": "coding",
+    "isSidebar": false
+  },
+  {
+    "id": 9,
+    "name": "Figma",
+    "link": "https://www.figma.com",
+    "favicon": "https://static.figma.com/app/icon/1/favicon.ico",
+    "workspace": "design",
+    "isSidebar": false
+  },
+  {
+    "id": 10,
+    "name": "Dribbble",
+    "link": "https://dribbble.com",
+    "favicon": "https://cdn.dribbble.com/assets/favicon-b38525134603b9513174ec887944bde1a869eb6cd414f4d640ee48ab2a15a26b.ico",
+    "workspace": "design",
+    "isSidebar": false
+  },
+  {
+    "id": 11,
+    "name": "Reddit",
+    "link": "https://www.reddit.com",
+    "favicon": "https://www.reddit.com/favicon.ico",
+    "workspace": "social",
+    "isSidebar": false
+  },
+  {
+    "id": 12,
+    "name": "LinkedIn",
+    "link": "https://www.linkedin.com",
+    "favicon": "https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+    "workspace": "social",
+    "isSidebar": false
+  },
+  {
+    "id": 13,
+    "name": "Netflix",
+    "link": "https://www.netflix.com",
+    "favicon": "https://assets.nflxext.com/us/ffe/siteui/common/icons/nficon2016.ico",
+    "workspace": "entertainment",
+    "isSidebar": false
+  },
+  {
+    "id": 14,
+    "name": "Spotify",
+    "link": "https://www.spotify.com",
+    "favicon": "https://open.spotifycdn.com/cdn/images/favicon.0f31d2ea.ico",
+    "workspace": "entertainment",
+    "isSidebar": false
+  },
+  {
+    "id": 15,
+    "name": "VS Code",
+    "link": "https://vscode.dev",
+    "favicon": "https://vscode.dev/static/stable/favicon.ico",
+    "workspace": "coding",
+    "isSidebar": true
+  }
+]
