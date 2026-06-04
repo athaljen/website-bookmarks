@@ -1,0 +1,27 @@
+[
+  {
+    "id": 2,
+    "title": "Xamguide Chats",
+    "link": "https://mail.google.com/mail/u/1/#chat/home"
+  },
+  {
+    "id": 1,
+    "title": "Bitbucket Repositories",
+    "link": "https://bitbucket.org/xamguide/workspace/repositories"
+  },
+  {
+    "id": 3,
+    "title": "Jira Issues",
+    "link": "https://xamguide.atlassian.net/jira/software/projects/XGM/list"
+  },
+  {
+    "id": 5,
+    "title": "Atlassian Home",
+    "link": "https://home.atlassian.com/"
+  },
+  {
+    "id": 6,
+    "title": "Supabase Dashboard",
+    "link": "https://supabase.com/dashboard/project/omwmesdnptawnfxhfnl"
+  }
+]

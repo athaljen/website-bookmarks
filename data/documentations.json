@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "React Documentation",
+    "link": "https://react.dev/"
+  },
+  {
+    "id": 2,
+    "title": "Mastra Guides",
+    "link": "https://mastra.ai/guides/getting-started/next-js"
+  },
+  {
+    "id": 3,
+    "title": "AI SDK Documentation",
+    "link": "https://ai-sdk.dev/docs/introduction"
+  },
+  {
+    "id": 4,
+    "title": "Bootstrap Documentation",
+    "link": "https://getbootstrap.com/docs/5.3/forms/form-control/"
+  },
+  {
+    "id": 5,
+    "title": "React Native Documentation",
+    "link": "https://reactnative.dev/docs/animated"
+  }
+]

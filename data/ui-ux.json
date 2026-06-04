@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "title": "Icon Finder",
+    "link": "https://www.iconfinder.com/"
+  },
+  {
+    "id": 2,
+    "title": "Uiverse",
+    "link": "https://uiverse.io/"
+  },
+  {
+    "id": 3,
+    "title": "Flaticon",
+    "link": "https://www.flaticon.com"
+  },
+  {
+    "id": 4,
+    "title": "Shadcn UI",
+    "link": "https://ui.shadcn.com/blocks/sidebar"
+  },
+  {
+    "id": 5,
+    "title": "Freepik",
+    "link": "https://www.freepik.com/"
+  },
+  {
+    "id": 6,
+    "title": "Figma",
+    "link": "https://www.figma.com/"
+  },
+  {
+    "id": 7,
+    "title": "Pixlr",
+    "link": "https://pixlr.com/"
+  },
+  {
+    "id": 8,
+    "title": "EZGIF",
+    "link": "https://ezgif.com/"
+  },
+  {
+    "id": 9,
+    "title": "Lottie Files",
+    "link": "https://lottiefiles.com/"
+  },
+  {
+    "id": 10,
+    "title": "Iconscout",
+    "link": "https://www.appicon.co/"
+  },
+  {
+    "id": 11,
+    "title": "Iconscout",
+    "link": "https://iconscout.com/"
+  },
+  {
+    "id": 12,
+    "title": "Remove.bg",
+    "link": "https://www.remove.bg/"
+  },
+  {
+    "id": 13,
+    "title": "Online Video Cutter",
+    "link": "https://online-video-cutter.com/"
+  }
+]

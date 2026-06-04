@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "title": "LinkedIn",
+    "link": "https://www.linkedin.com/in/bisworanjan-jena-46a184184/"
+  },
+  {
+    "id": 2,
+    "title": "CutShort",
+    "link": "https://cutshort.io/"
+  },
+  {
+    "id": 3,
+    "title": "WellFound",
+    "link": "https://wellfound.com/"
+  },
+  {
+    "id": 4,
+    "title": "Glassdoor",
+    "link": "https://www.glassdoor.co.in/"
+  },
+  {
+    "id": 5,
+    "title": "Naukri",
+    "link": "https://www.naukri.com/"
+  },
+  {
+    "id": 6,
+    "title": "Workassist",
+    "link": "https://www.workassist.in/"
+  },
+  {
+    "id": 7,
+    "title": "Calyptus",
+    "link": "https://app.calyptus.co/"
+  },
+  {
+    "id": 8,
+    "title": "Sourcebae",
+    "link": "https://sourcebae.com/"
+  },
+  {
+    "id": 9,
+    "title": "Indeed",
+    "link": "https://in.indeed.com/"
+  },
+  {
+    "id": 10,
+    "title": "Shine",
+    "link": "https://www.shine.com"
+  },
+  {
+    "id": 11,
+    "title": "Talent.com",
+    "link": "https://in.talent.com/"
+  },
+  {
+    "id": 12,
+    "title": "Unstop",
+    "link": "https://unstop.com/"
+  },
+  {
+    "id": 13,
+    "title": "Xoriant",
+    "link": "https://xoriant.taleo.net/"
+  },
+  {
+    "id": 14,
+    "title": "Hirist",
+    "link": "https://www.hirist.tech/"
+  },
+  {
+    "id": 15,
+    "title": "Calyptus",
+    "link": "https://app.calyptus.co/"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Gmail",
+    "link": "https://mail.google.com/mail/u/0/#inbox"
+  },
+  {
+    "id": 2,
+    "title": "Github",
+    "link": "https://github.com/athaljen"
+  },
+  {
+    "id": 3,
+    "title": "LinkedIn",
+    "link": "https://linkedin.com/in/athaljen/"
+  },
+  {
+    "id": 4,
+    "title": "Vercel Projects",
+    "link": "https://vercel.com/bisworanjan-jena-s-projects"
+  },
+  {
+    "id": 5,
+    "title": "YouTube",
+    "link": "https://youtube.com/"
+  },
+  {
+    "id": 6,
+    "title": "Figma",
+    "link": "https://figma.com/"
+  },
+  {
+    "id": 7,
+    "title": "Chat GPT",
+    "link": "https://chatgpt.com/"
+  },
+  {
+    "id": 8,
+    "title": "Claude AI",
+    "link": "https://claude.ai/"
+  },
+  {
+    "id": 9,
+    "title": "Gemini",
+    "link": "https://gemini.google.com/"
+  }
+]
