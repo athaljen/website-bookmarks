@@ -162,7 +162,7 @@ function renderContent() {
         />
         <div class="icon-fallback" style="display:none">${bookmark.title.charAt(0).toUpperCase()}</div>
       </div>
-      <span class="card-title">${bookmark.title}</span>
+      <p class="card-title">${bookmark.title}</p>
     `;
     grid.appendChild(card);
   });

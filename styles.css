@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700&family=JetBrains+Mono:wght@300;400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500&display=swap");
 
 :root {
   --bg-base: #0a0a0f;
@@ -25,7 +25,7 @@
   --radius-lg: 20px;
   --radius-pill: 999px;
 
-  --font-display: "Syne", sans-serif;
+  --font-display: "JetBrains Mono", sans-serif;
   --font-mono: "JetBrains Mono", monospace;
 
   --transition: 0.2s cubic-bezier(0.4, 0, 0.2, 1);
@@ -421,7 +421,7 @@ body::before {
 }
 
 .card-title {
-  font-size: 12.5px;
+  font-size: 13px;
   font-weight: 500;
   color: var(--text-primary);
   white-space: nowrap;
@@ -430,7 +430,6 @@ body::before {
   max-width: 130px;
   flex: 1;
   min-width: 0;
-  letter-spacing: -0.01em;
   position: relative;
   z-index: 1;
 }
