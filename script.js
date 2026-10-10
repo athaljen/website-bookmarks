@@ -1,6 +1,5 @@
 const bookmarkTabs = {
   "jobs-search": { name: "Job Search", icon: "🔍", bookmarks: [] },
-  work: { name: "Work", icon: "💼", bookmarks: [] },
   coding: { name: "Coding", icon: "💻", bookmarks: [] },
   libraries: { name: "Libraries", icon: "📚", bookmarks: [] },
   documentation: { name: "Documentation", icon: "📄", bookmarks: [] },
@@ -76,7 +75,7 @@ async function init() {
     console.error("Failed to load data.json:", e);
   }
 
-  activeWorkspace = Object.keys(bookmarkTabs)[1];
+  activeWorkspace = Object.keys(bookmarkTabs)[0];
 
   renderTopTab();
   renderSidebar();
@@ -84,8 +83,6 @@ async function init() {
 }
 
 function renderSidebar() {
-  const sidebar = document.getElementById("sidebar");
-
   const grid = document.getElementById("sidebar-grid");
 
   sidebarData.forEach((sidebar) => {
